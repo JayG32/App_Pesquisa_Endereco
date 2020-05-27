@@ -1,4 +1,4 @@
-#App para Pesquisa de Endereço através do CEP
+#App para Pesquisa de Endereço
 
 Programa desenvolvido como exercício do tópico de JavaScript do curso de Desenvolvimeto Web da Plataforma UDEMY
 
@@ -11,3 +11,8 @@ Tecnologias utilizadas:
 - HTML
 - Bootstrap
 - Javascript
+
+
+------------
+
+[![Página de pesquisa](https://i.imgur.com/hbwZxMV.png "Página de pesquisa")](https://i.imgur.com/hbwZxMV.png "Página de pesquisa")
